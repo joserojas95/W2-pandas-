@@ -1,2 +1,2 @@
-# W2-pandas-
+# Proyecto-W2-pandas- [José Rojas]
 Proyecto semana 2. 
