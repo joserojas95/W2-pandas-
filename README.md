@@ -16,6 +16,7 @@ El objetivo de este análisis consiste en comparar, por sexo (hombre/mujer), la 
 
 Documentos de los que partes. 
 -	attacks.csv.xlsx base de datos inicial. 
+-   attacks.cs-conclusiones.xlsx (ejecución de las tablas dinámicas).
 -	Data clean Pandas .ipynb. Notebook para elaborar el código. 
 -	W2-pandas [José Rojas] conclusiones del proyecto. 
 
